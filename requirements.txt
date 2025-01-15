@@ -6,3 +6,6 @@ langchainhub
 langchain_groq
 langchain_huggingface
 ipywidgets
+bs4
+tiktoken
+chromadb
